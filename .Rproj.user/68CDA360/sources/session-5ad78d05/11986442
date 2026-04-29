@@ -3,7 +3,7 @@
     "path": "~/MindMove/mindmove/equipa.qmd",
     "project_path": "equipa.qmd",
     "type": "quarto_markdown",
-    "hash": "726199970",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1777420231468.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "6,54",
+        "cursorPosition": "6,43",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1777420234,
+    "lastKnownWriteTime": 1777485820,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1777420234243,
+    "last_content_update": 1777485820,
     "read_only": false,
     "read_only_alternatives": []
 }
