@@ -1,0 +1,7 @@
+---
+title: "Equipa"
+---
+
+## Membros da equipa
+
+Apresentação dos membros da equipa do ensaio MindMove.

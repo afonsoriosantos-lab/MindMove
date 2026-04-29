@@ -1,0 +1,8 @@
+---
+title: "MindMove"
+---
+
+Bem-vindo ao site do ensaio clínico MindMove.
+
+Este estudo avalia o impacto de uma intervenção no bem-estar mental,
+medido pelo PHQ-9 às 8 semanas.
