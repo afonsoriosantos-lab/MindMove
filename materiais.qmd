@@ -2,6 +2,12 @@
 title: "Materiais"
 ---
 
-## Materiais do estudo
+## Protótipo MindMove
 
-Conteúdo dos materiais utilizados no ensaio MindMove.
+Aqui estão os ecrãs principais do nosso protótipo:
+
+![Login](login.png)
+![Menu Inicial](menu_inicial.png)
+![Registo de Humor](humor.png)
+![Registo de Atividade](atividade.png)
+![A Minha Conta](conta.png)
