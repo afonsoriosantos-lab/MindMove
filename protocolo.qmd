@@ -133,7 +133,7 @@ Percurso do Utilizador na App MindMove
 
 Todos os participantes fornecerão consentimento informado antes da inclusão no estudo. A confidencialidade dos dados será assegurada através da anonimização da informação e armazenamento seguro dos dados.
 O protocolo será submetido para aprovação por uma comissão de ética competente antes do início do estudo.
-Os resultados do ensaio serão disseminados através de publicações científicas e apresentações em conferências, independentemente da direção dos resultados.
+Os resultados do ensaio serão disseminados através de publicações científicas e apresentações em conferências, independentemente da direção dos resultados. 
 
 # 5. Notas de Desenvolvimento
 
