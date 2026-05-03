@@ -1,7 +1,24 @@
 ---
 title: "Materiais"
 ---
+## Documentos para Download 
 
-## Materiais do estudo
+### REDCap (PDF's)
+* [📄 Baseline](baseline.pdf)
+* [📄 Screening](screening.pdf)
+* [📄 Follow-up 4 semanas](followup4w.pdf)
+* [📄 Follow-up 8 semanas](followup8w.pdf)
+* [📄 Conclusão](conclusao.pdf)
 
-Conteúdo dos materiais utilizados no ensaio MindMove.
+### Dados e Tabelas (Excel)
+* [📊 Dicionário ](DicionarioFP.xlsx)
+
+## Protótipo MindMove
+
+Aqui estão os ecrãs principais do nosso protótipo:
+
+![Login](login.png)   
+![Menu Inicial](menu_inicial.png)
+![Registo de Humor](humor.png)
+![Registo de Atividade](atividade.png)
+![A Minha Conta](conta.png)

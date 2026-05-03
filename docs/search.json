@@ -4,71 +4,161 @@
     "href": "resultados.html",
     "title": "Resultados",
     "section": "",
-    "text": "Os resultados do ensaio MindMove serão apresentados aqui."
+    "text": "Resultados do Ensaio MindMove"
   },
   {
     "objectID": "resultados.html#resultados",
     "href": "resultados.html#resultados",
     "title": "Resultados",
     "section": "",
-    "text": "Os resultados do ensaio MindMove serão apresentados aqui."
+    "text": "Resultados do Ensaio MindMove"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "MindMove",
     "section": "",
-    "text": "Bem-vindo ao site do ensaio clínico MindMove.\nEste estudo avalia o impacto de uma intervenção no bem-estar mental, medido pelo PHQ-9 às 8 semanas."
+    "text": "O MindMove é um projeto de investigação desenvolvido no âmbito da Unidade Curricular de Bioestatística e Análise de Dados da Faculdade de Medicina da Universidade do Porto.\n\n\n\n\n\n\nNoteO nosso compromisso\n\n\n\nO nosso objetivo é avaliar como a tecnologia e a atividade física podem ser aliadas no combate à sintomatologia depressiva em estudantes universitários.\n\n\n\n\nProblema: A depressão é uma das principais causas de incapacidade entre jovens adultos. A população universitária, exposta a elevados stressores académicos, apresenta uma vulnerabilidade particular que justifica intervenções precoces e escaláveis.\nApp MindMove: A nossa aplicação baseia-se em princípios de terapia cognitivo-comportamental digital, autorregulação emocional e monitorização de atividade física para promover o bem-estar mental.\n\n\n\n\nGrupo-Alvo: Estudantes universitários (18-30 anos) com sintomas depressivos ligeiros a moderados (PHQ-9 entre 5 e 14).\nIntervenção: Utilização da app MindMove durante 8 semanas, incluindo módulos de dCBT, registo de humor e técnicas de mindfulness.\nObjetivo Principal: Redução estatisticamente significativa do score de sintomatologia depressiva (PHQ-9) às 8 semanas."
+  },
+  {
+    "objectID": "index.html#bem-vindos-ao-projeto-mindmove",
+    "href": "index.html#bem-vindos-ao-projeto-mindmove",
+    "title": "MindMove",
+    "section": "",
+    "text": "O MindMove é um projeto de investigação desenvolvido no âmbito da Unidade Curricular de Bioestatística e Análise de Dados da Faculdade de Medicina da Universidade do Porto.\n\n\n\n\n\n\nNoteO nosso compromisso\n\n\n\nO nosso objetivo é avaliar como a tecnologia e a atividade física podem ser aliadas no combate à sintomatologia depressiva em estudantes universitários.\n\n\n\n\nProblema: A depressão é uma das principais causas de incapacidade entre jovens adultos. A população universitária, exposta a elevados stressores académicos, apresenta uma vulnerabilidade particular que justifica intervenções precoces e escaláveis.\nApp MindMove: A nossa aplicação baseia-se em princípios de terapia cognitivo-comportamental digital, autorregulação emocional e monitorização de atividade física para promover o bem-estar mental.\n\n\n\n\nGrupo-Alvo: Estudantes universitários (18-30 anos) com sintomas depressivos ligeiros a moderados (PHQ-9 entre 5 e 14).\nIntervenção: Utilização da app MindMove durante 8 semanas, incluindo módulos de dCBT, registo de humor e técnicas de mindfulness.\nObjetivo Principal: Redução estatisticamente significativa do score de sintomatologia depressiva (PHQ-9) às 8 semanas."
   },
   {
     "objectID": "protocolo.html",
     "href": "protocolo.html",
     "title": "Protocolo",
     "section": "",
-    "text": "Conteúdo do protocolo do ensaio MindMove."
+    "text": "Eficácia da aplicação móvel MindMove na redução de sintomas depressivos em estudantes universitários entre os 18 e os 30 anos com sintomatologia depressiva ligeira a moderada (PHQ-9 entre 5 e 14), sem diagnóstico de depressão major e sem terapêutica antidepressiva atual, comparativamente a lista de espera com material educativo estático, avaliada pela variação do score do Patient Health Questionnaire-9 às 8 semanas: protocolo de um ensaio clínico randomizado controlado.\n\n\n\nEficácia da app MindMove na depressão ligeira universitária: ECR\n\n\n\n\nAfonso Santos (FMUP)\n\nCarlota Ferreira (FMUP)\n\nDuarte Oliveira (FMUP)\n\nJoana Antunes (FMUP)\n\nInstituição: Faculdade de Medicina da Universidade do Porto\nContacto: up202505689@up.pt\n\n\n\n\nTipo: Ensaio clínico randomizado, controlado, paralelo\n\nData de início: [2026-03-03]\n\nData de conclusão: [2026-06-02]"
   },
   {
-    "objectID": "protocolo.html#resumo-do-protocolo",
-    "href": "protocolo.html#resumo-do-protocolo",
+    "objectID": "protocolo.html#informação-administrativa",
+    "href": "protocolo.html#informação-administrativa",
     "title": "Protocolo",
     "section": "",
-    "text": "Conteúdo do protocolo do ensaio MindMove."
+    "text": "Eficácia da aplicação móvel MindMove na redução de sintomas depressivos em estudantes universitários entre os 18 e os 30 anos com sintomatologia depressiva ligeira a moderada (PHQ-9 entre 5 e 14), sem diagnóstico de depressão major e sem terapêutica antidepressiva atual, comparativamente a lista de espera com material educativo estático, avaliada pela variação do score do Patient Health Questionnaire-9 às 8 semanas: protocolo de um ensaio clínico randomizado controlado.\n\n\n\nEficácia da app MindMove na depressão ligeira universitária: ECR\n\n\n\n\nAfonso Santos (FMUP)\n\nCarlota Ferreira (FMUP)\n\nDuarte Oliveira (FMUP)\n\nJoana Antunes (FMUP)\n\nInstituição: Faculdade de Medicina da Universidade do Porto\nContacto: up202505689@up.pt\n\n\n\n\nTipo: Ensaio clínico randomizado, controlado, paralelo\n\nData de início: [2026-03-03]\n\nData de conclusão: [2026-06-02]"
+  },
+  {
+    "objectID": "protocolo.html#racional",
+    "href": "protocolo.html#racional",
+    "title": "Protocolo",
+    "section": "1.1 Racional",
+    "text": "1.1 Racional\nA depressão constitui uma das principais causas de incapacidade entre jovens adultos a nível global, com particular expressão na população universitária, caracterizada por elevada exposição a stressores académicos, transições desenvolvimentais e vulnerabilidade psicossocial. Estudos epidemiológicos indicam prevalências elevadas de sintomatologia depressiva clinicamente relevante neste grupo etário, com impacto significativo no desempenho académico, funcionamento social, risco de abandono escolar e qualidade de vida. Mesmo quando os sintomas se situam na faixa ligeira a moderada, como operacionalizado por um score entre 5 e 14 no Patient Health Questionnaire-9, estes associam-se a risco aumentado de agravamento clínico e de recorrência futura, justificando intervenções precoces e escaláveis. Apesar da disponibilidade de serviços de saúde mental nas universidades, persistem barreiras substanciais ao acesso e à utilização de cuidados convencionais, incluindo estigma, listas de espera prolongadas, limitações de recursos humanos especializados e constrangimentos logísticos. Intervenções presenciais estruturadas, embora eficazes, apresentam dificuldades de implementação em larga escala e custos elevados. Adicionalmente, estudantes com sintomatologia ligeira a moderada frequentemente não preenchem critérios para intervenção prioritária, permanecendo numa zona intermédia de necessidade clínica não plenamente satisfeita. As intervenções digitais, nomeadamente aplicações móveis baseadas em princípios de terapia cognitivo-comportamental, autorregulação emocional e monitorização de sintomas, emergem como estratégias promissoras para aumentar o acesso, promover autonomia e reduzir barreiras estruturais. Evidência preliminar sugere que aplicações móveis podem produzir reduções modestas a moderadas em sintomas depressivos, particularmente quando incorporam componentes interativas, feedback personalizado e estratégias de ativação comportamental. Contudo, muitos estudos apresentam limitações metodológicas, incluindo amostras heterogéneas, ausência de comparadores adequados ou curta duração de seguimento. O presente ensaio clínico randomizado visa avaliar a eficácia da aplicação MindMove na redução do score do PHQ-9 às 8 semanas, em comparação com lista de espera associada a material educativo estático. A escolha deste comparador permite controlar o efeito de informação básica e acesso a recursos, isolando o impacto específico da intervenção digital ativa. Este estudo pretende colmatar a lacuna de evidência robusta em estudantes universitários com sintomatologia ligeira a moderada, fornecendo dados clinicamente relevantes para informar estratégias de prevenção secundária e modelos de cuidados escalonados em contexto académico."
+  },
+  {
+    "objectID": "protocolo.html#objetivos",
+    "href": "protocolo.html#objetivos",
+    "title": "Protocolo",
+    "section": "1.2 Objetivos",
+    "text": "1.2 Objetivos\n\nObjetivo Primário\nO objetivo primário deste ensaio é avaliar a eficácia da aplicação móvel MindMove na redução da sintomatologia depressiva, medida pelo score no PHQ-9 às 8 semanas, em estudantes universitários entre os 18 e os 30 anos com sintomas depressivos ligeiros a moderados.\n\n\nObjetivos Secundários\nComo objetivos secundários pretende-se: avaliar a proporção de participantes que atingem remissão sintomática (PHQ-9 &lt;5) às 8 semanas; avaliar alterações na ansiedade medida pelo GAD-7, no nível de atividade física semanal e na qualidade do sono (PSQI); analisar a adesão e o engagement com a aplicação MindMove, incluindo tempo de uso e módulos completados; e avaliar a satisfação com a intervenção, a manutenção dos efeitos terapêuticos no follow-up às 8 semanas, bem como a taxa de dropout."
+  },
+  {
+    "objectID": "protocolo.html#desenho-do-estudo",
+    "href": "protocolo.html#desenho-do-estudo",
+    "title": "Protocolo",
+    "section": "2.1 Desenho do Estudo",
+    "text": "2.1 Desenho do Estudo\nTrata-se de um ensaio clínico randomizado, controlado, de grupos paralelos, com alocação 1:1 entre o grupo de intervenção (MindMove) e o grupo comparador em lista de espera com material educativo estático. O estudo será conduzido num único serviço de psicologia universitário, envolvendo um pré-teste de 30 participantes (15 por grupo). A duração total por participante é de 8 semanas de intervenção, com avaliações de outcomes às 4 e 8 semanas.\nTimeline\n\n\n\nFase\nDuração\nDescrição\n\n\n\n\nRecrutamento\n4 semanas\nIdentificação e seleção\n\n\nBaseline\n1 semana\nAvaliação inicial\n\n\nIntervenção\n8 semanas\nPeríodo ativo\n\n\nFollow-up\n4 e 8 semanas\nAvaliação de outcomes"
+  },
+  {
+    "objectID": "protocolo.html#população-do-estudo",
+    "href": "protocolo.html#população-do-estudo",
+    "title": "Protocolo",
+    "section": "2.2 População do Estudo",
+    "text": "2.2 População do Estudo\n\n2.2.1 Critérios de Inclusão\n\nIdade: Jovens adultos entre os 18 e 30 anos (inclusive).\nEstado Clínico: Presença de sintomas depressivos de intensidade ligeira a moderada, que sejam validados por uma pontuação entre 5 e 14 no PHQ-9.\nCapacidade Tecnológica: Posse de um dispositivo pessoal (Android ou iOS) com acesso à internet.\n\n\n\n2.2.2 Critérios de Exclusão\n\nGravidade Clínica: Diagnóstico prévio de Depressão Major ou pontuação PHQ-9 superior a 14.\nRisco Agudo: Qualquer pontuação superior a 0 no item 9 do PHQ-9.\nRelação Terapêutica: Utilização diária de medicação antidepressiva ou psicoterapia regular."
+  },
+  {
+    "objectID": "protocolo.html#intervenções",
+    "href": "protocolo.html#intervenções",
+    "title": "Protocolo",
+    "section": "2.3 Intervenções",
+    "text": "2.3 Intervenções\nO grupo de intervenção terá acesso à aplicação móvel MindMove durante um período de 8 semanas. A aplicação inclui módulos de terapia cognitivo-comportamental digital (dCBT), exercícios de ativação comportamental, registo de humor (mood tracking), lembretes de atividade física, técnicas de mindfulness guiadas, monitorização de padrões de sono e sugestões personalizadas baseadas no humor do utilizador. O grupo controlo será colocado em lista de espera, tendo acesso apenas a material educativo estático, incluindo brochuras sobre saúde mental e uma lista de recursos disponíveis, sem intervenção ativa durante o estudo. Após a conclusão do ensaio, será oferecido acesso à aplicação MindMove aos participantes do grupo controlo."
+  },
+  {
+    "objectID": "protocolo.html#outcome-primário",
+    "href": "protocolo.html#outcome-primário",
+    "title": "Protocolo",
+    "section": "3.1 Outcome Primário",
+    "text": "3.1 Outcome Primário\nPHQ-9 Patient Health Questionnaire-9) score Instrumento: O Patient Health Questionnaire-9 (PHQ-9) é um instrumento de autorrelato validado, composto por 9 itens, utilizado para avaliar a gravidade da sintomatologia depressiva nas últimas duas semanas. Cada item é pontuado de 0 a 3, resultando num score total entre 0 e 27, sendo valores mais elevados indicativos de maior gravidade.\nMomento de avaliação: O PHQ-9 será administrado no baseline, às 4 semanas e às 8 semanas, sendo a avaliação às 8 semanas considerada para análise do outcome primário.\nDefinição de sucesso: O sucesso da intervenção será definido como uma redução estatisticamente significativa do score do PHQ-9 às 8 semanas no grupo de intervenção comparativamente ao grupo controlo. Adicionalmente, será explorada a proporção de participantes que atingem remissão sintomática, definida como PHQ-9 &lt; 5."
+  },
+  {
+    "objectID": "protocolo.html#outcomes-secundários",
+    "href": "protocolo.html#outcomes-secundários",
+    "title": "Protocolo",
+    "section": "3.2 Outcomes Secundários",
+    "text": "3.2 Outcomes Secundários\n\nAnsiedade avaliada através do GAD-7 (Generalized Anxiety Disorder-7)\nNível de atividade física semanal, medido em minutos de atividade física autorreportada\nQualidade do sono avaliada pelo PSQI (Pittsburgh Sleep Quality Index)"
+  },
+  {
+    "objectID": "protocolo.html#análise-estatística",
+    "href": "protocolo.html#análise-estatística",
+    "title": "Protocolo",
+    "section": "3.3 Análise Estatística",
+    "text": "3.3 Análise Estatística\nA análise estatística será realizada de acordo com o princípio de intention-to-treat, incluindo todos os participantes randomizados. Inicialmente, será efetuada uma análise descritiva das características basais dos participantes, utilizando médias e desvios padrão para variáveis contínuas e frequências relativas para variáveis categóricas. Para o outcome primário (PHQ-9 às 8 semanas), será utilizada uma análise de covariância (ANCOVA), ajustando para o valor basal do PHQ-9, de forma a comparar as diferenças entre o grupo de intervenção e o grupo controlo. Os outcomes secundários (GAD-7, atividade física e PSQI) serão analisados utilizando modelos lineares mistos para avaliar a evolução ao longo do tempo (baseline, 4 e 8 semanas) e a interação entre grupo e tempo. A taxa de dropout será analisada descritivamente e comparada entre grupos. Serão conduzidas análises de sensibilidade para avaliar o impacto de dados em falta, recorrendo a métodos de imputação apropriados, como multiple imputation. O nível de significância estatística será definido como p &lt; 0.05. Todas as análises serão realizadas utilizando software estatístico apropriado (e.g., R ou SPSS)."
+  },
+  {
+    "objectID": "protocolo.html#fluxograma-consort",
+    "href": "protocolo.html#fluxograma-consort",
+    "title": "Protocolo",
+    "section": "3.4 Fluxograma CONSORT",
+    "text": "3.4 Fluxograma CONSORT\n ## 3.5 Diagrama de Atividades\nPercurso do Participante no Estudo Clínico \nPercurso do Utilizador na App MindMove"
+  },
+  {
+    "objectID": "protocolo.html#diagrama-de-casos-de-uso",
+    "href": "protocolo.html#diagrama-de-casos-de-uso",
+    "title": "Protocolo",
+    "section": "3.6 Diagrama de Casos de Uso",
+    "text": "3.6 Diagrama de Casos de Uso\n ## 3.7 Diagrama de Sequência – Registo de Humor"
+  },
+  {
+    "objectID": "protocolo.html#decisões-pendentes",
+    "href": "protocolo.html#decisões-pendentes",
+    "title": "Protocolo",
+    "section": "Decisões Pendentes",
+    "text": "Decisões Pendentes\n\nDefinir o limiar de diferença clinicamente significativa para o PHQ-9\nEstabelecer a estratégia de análise para dados em falta e taxa de dropout"
+  },
+  {
+    "objectID": "protocolo.html#dúvidas",
+    "href": "protocolo.html#dúvidas",
+    "title": "Protocolo",
+    "section": "Dúvidas",
+    "text": "Dúvidas\n\nClarificar critérios operacionais para classificação de sintomas depressivos ligeiros a moderados (PHQ-9 5–14)\nDefinir procedimentos de apoio e encaminhamento para participantes com agravamento dos sintomas"
   },
   {
     "objectID": "equipa.html",
     "href": "equipa.html",
     "title": "Equipa",
     "section": "",
-<<<<<<< HEAD
-    "text": "Afonso do Rio Espinheira Santos - 202504164 Carlota Carmo Ferreira- 202508342 Duarte Mendes Oliveira- 202505689 Joana Pereira Antunes- 202504492"
-=======
     "text": "Afonso do Rio Espinheira Santos - 202504164\nCarlota Carmo Ferreira - 202508342\nDuarte Mendes Oliveira - 202505689\nJoana Pereira Antunes - 202504492"
->>>>>>> 51505ed9aa40ce4be4c47d93cef91f3769c6f9ff
   },
   {
     "objectID": "equipa.html#membros-da-equipa-grupo-8---turma-c",
     "href": "equipa.html#membros-da-equipa-grupo-8---turma-c",
     "title": "Equipa",
     "section": "",
-<<<<<<< HEAD
-    "text": "Afonso do Rio Espinheira Santos - 202504164 Carlota Carmo Ferreira- 202508342 Duarte Mendes Oliveira- 202505689 Joana Pereira Antunes- 202504492"
-=======
     "text": "Afonso do Rio Espinheira Santos - 202504164\nCarlota Carmo Ferreira - 202508342\nDuarte Mendes Oliveira - 202505689\nJoana Pereira Antunes - 202504492"
->>>>>>> 51505ed9aa40ce4be4c47d93cef91f3769c6f9ff
   },
   {
     "objectID": "materiais.html",
     "href": "materiais.html",
     "title": "Materiais",
     "section": "",
-    "text": "Conteúdo dos materiais utilizados no ensaio MindMove."
+    "text": "📄 Baseline\n📄 Screening\n📄 Follow-up 4 semanas\n📄 Follow-up 8 semanas\n📄 Conclusão\n\n\n\n\n\n📊 Dicionário"
   },
   {
-    "objectID": "materiais.html#materiais-do-estudo",
-    "href": "materiais.html#materiais-do-estudo",
+    "objectID": "materiais.html#documentos-para-download",
+    "href": "materiais.html#documentos-para-download",
     "title": "Materiais",
     "section": "",
-    "text": "Conteúdo dos materiais utilizados no ensaio MindMove."
+    "text": "📄 Baseline\n📄 Screening\n📄 Follow-up 4 semanas\n📄 Follow-up 8 semanas\n📄 Conclusão\n\n\n\n\n\n📊 Dicionário"
+  },
+  {
+    "objectID": "materiais.html#protótipo-mindmove",
+    "href": "materiais.html#protótipo-mindmove",
+    "title": "Materiais",
+    "section": "Protótipo MindMove",
+    "text": "Protótipo MindMove\nAqui estão os ecrãs principais do nosso protótipo:"
   },
   {
     "objectID": "about.html",
