@@ -2,7 +2,26 @@
 title: "MindMove"
 ---
 
-Bem-vindo ao site do ensaio clínico MindMove.
+## Bem-vindos ao Projeto MindMove
 
-Este estudo avalia o impacto de uma intervenção no bem-estar mental,
-medido pelo PHQ-9 às 8 semanas.
+O **MindMove** é um projeto de investigação desenvolvido no âmbito da Unidade Curricular de Bioestatística e Análise de Dados da Faculdade de Medicina da Universidade do Porto.
+
+::: {.callout-note}
+## O nosso compromisso
+O nosso objetivo é avaliar como a tecnologia e a atividade física podem ser aliadas no combate à sintomatologia depressiva em estudantes universitários.
+:::
+
+### Resumo do Ensaio
+
+**Problema:**
+A depressão é uma das principais causas de incapacidade entre jovens adultos. A população universitária, exposta a elevados stressores académicos, apresenta uma vulnerabilidade particular que justifica intervenções precoces e escaláveis.
+
+**App MindMove:**
+A nossa aplicação baseia-se em princípios de terapia cognitivo-comportamental digital, autorregulação emocional e monitorização de atividade física para promover o bem-estar mental.
+
+### Estrutura do Estudo
+
+*   **Grupo-Alvo:** Estudantes universitários (18-30 anos) com sintomas depressivos ligeiros a moderados (PHQ-9 entre 5 e 14).
+*   **Intervenção:** Utilização da app MindMove durante 8 semanas, incluindo módulos de dCBT, registo de humor e técnicas de mindfulness.
+*   **Objetivo Principal:** Redução estatisticamente significativa do score de sintomatologia depressiva (PHQ-9) às 8 semanas.
+
