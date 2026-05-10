@@ -35,7 +35,7 @@ dados |>
   modify_header(label ~ "**Variável**")
 ```
 
-O gráfico seguinte ilustra a distribuição dos scores de depressão às 8 semanas. É possível observar a diferença visual entre os scores do grupo que recebeu a intervenção e o grupo de controlo.
+O gráfico seguinte ilustra a distribuição dos scores de depressão às 8 semanas. É possível observar a diferença visual entre os scores do grupo que recebeu a intervenção e o grupo de controlo. 
 ```{r}
 #| echo: false
 #| message: false
