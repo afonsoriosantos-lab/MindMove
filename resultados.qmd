@@ -2,6 +2,54 @@
 title: "Resultados"
 ---
 
-## Resultados
+```{r}
+#| label: setup
+#| include: false
 
-Resultados do Ensaio MindMove
+library(tidyverse)
+library(here)
+library(janitor)
+library(gtsummary)
+
+dados <- read_csv(here("data", "raw", "mindmove.csv")) |> clean_names()
+```
+
+Na tabela abaixo, apresentam-se as características basais dos participantes do estudo, comparando o grupo de controlo e o grupo de intervenção.
+```{r}
+#| echo: false
+#| message: false
+
+dados |>
+  select(grupo, idade, sexo, phq9_baseline, gad7_baseline) |>
+  tbl_summary(
+    by = grupo,
+    label = list(
+      idade ~ "Idade (anos)",
+      sexo ~ "Sexo",
+      phq9_baseline ~ "Depressão (PHQ-9) Basal",
+      gad7_baseline ~ "Ansiedade (GAD-7) Basal"
+    )
+  ) |>
+  add_overall() |>
+  add_p() |>
+  modify_header(label ~ "**Variável**")
+```
+
+O gráfico seguinte ilustra a distribuição dos scores de depressão às 8 semanas. É possível observar a diferença visual entre os scores do grupo que recebeu a intervenção e o grupo de controlo. 
+```{r}
+#| echo: false
+#| message: false
+#| fig-cap: "Distribuição do score PHQ-9 às 8 semanas por grupo."
+
+ggplot(dados |> filter(!is.na(phq9_semana8)), 
+       aes(x = grupo, y = phq9_semana8, colour = grupo)) +
+  geom_boxplot(outlier.shape = NA, width = 0.4, linewidth = 0.7) +
+  geom_jitter(width = 0.12, alpha = 0.7, size = 2.5) +
+  scale_colour_manual(values = c("intervencao" = "#2C3E50", "controlo" = "#7A9B9E")) +
+  labs(
+    x = "Grupo",
+    y = "Score PHQ-9 às 8 semanas"
+  ) +
+  theme_minimal() +
+  theme(legend.position = "none")
+```
