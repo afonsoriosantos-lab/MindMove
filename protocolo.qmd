@@ -27,8 +27,8 @@ Eficácia da app MindMove na depressão ligeira universitária: ECR
 ### Identificação do Ensaio
 
 - Tipo: Ensaio clínico randomizado, controlado, paralelo  
-- Data de início: [2026-03-03]  
-- Data de conclusão: [2026-06-02]  
+- Data de início: 2026-03-03
+- Data de conclusão: 2026-06-02
 
 # 1. Introdução
 
@@ -88,12 +88,12 @@ O grupo controlo será colocado em lista de espera, tendo acesso apenas a materi
 
 ## 3.1 Outcome Primário
 
-PHQ-9 Patient Health Questionnaire-9) score
+PHQ-9 (Patient Health Questionnaire-9) score
 Instrumento: O Patient Health Questionnaire-9 (PHQ-9) é um instrumento de autorrelato validado, composto por 9 itens, utilizado para avaliar a gravidade da sintomatologia depressiva nas últimas duas semanas. Cada item é pontuado de 0 a 3, resultando num score total entre 0 e 27, sendo valores mais elevados indicativos de maior gravidade.
 
 Momento de avaliação: O PHQ-9 será administrado no baseline, às 4 semanas e às 8 semanas, sendo a avaliação às 8 semanas considerada para análise do outcome primário.
 
-Definição de sucesso: O sucesso da intervenção será definido como uma redução estatisticamente significativa do score do PHQ-9 às 8 semanas no grupo de intervenção comparativamente ao grupo controlo. Adicionalmente, será explorada a proporção de participantes que atingem remissão sintomática, definida como PHQ-9 < 5.
+Definição de sucesso: O sucesso da intervenção será definido como uma redução estatisticamente significativa do score do PHQ-9 às 8 semanas no grupo de intervenção comparativamente ao grupo controlo. Considerar-se-á uma diferença clinicamente significativa (MCID) uma redução de pelo menos 5 pontos no score total (Löwe et al., 2004). Adicionalmente, será explorada a proporção de participantes que atingem remissão sintomática, definida como PHQ-9 < 5.
 
 
 ## 3.2 Outcomes Secundários
@@ -113,6 +113,7 @@ O nível de significância estatística será definido como p < 0.05. Todas as a
 ## 3.4 Fluxograma CONSORT
 
 ![](consort_novo.png)
+
 ## 3.5 Diagrama de Atividades
 
 Percurso do Participante no Estudo Clínico
@@ -125,6 +126,7 @@ Percurso do Utilizador na App MindMove
 ## 3.6 Diagrama de Casos de Uso
 
 ![](casosdeuso.png)
+
 ## 3.7 Diagrama de Sequência – Registo de Humor
 
 ![](fluxohumor_novo.png)
@@ -135,20 +137,10 @@ Todos os participantes fornecerão consentimento informado antes da inclusão no
 O protocolo será submetido para aprovação por uma comissão de ética competente antes do início do estudo.
 Os resultados do ensaio serão disseminados através de publicações científicas e apresentações em conferências, independentemente da direção dos resultados. 
 
-# 5. Notas de Desenvolvimento
-
-## Decisões Pendentes
-- Definir o limiar de diferença clinicamente significativa para o PHQ-9
-- Estabelecer a estratégia de análise para dados em falta e taxa de dropout
-
-## Dúvidas
-- Clarificar critérios operacionais para classificação de sintomas depressivos ligeiros a moderados (PHQ-9 5–14)
-- Definir procedimentos de apoio e encaminhamento para participantes com agravamento dos sintomas
-
 # Referências
 
 - Schulz KF, Altman DG, Moher D. CONSORT 2010 statement: updated guidelines for reporting parallel group randomised trials. BMJ. 2010;340:c332. doi:10.1136/bmj.c332.
 - Spitzer RL, Kroenke K, Williams JB, Löwe B. A brief measure for assessing generalized anxiety disorder: the GAD-7. Arch Intern Med. 2006;166(10):1092–1097. doi:10.1001/archinte.166.10.1092.
 - Torous J, Nicholas J, Larsen ME, Firth J, Christensen H. Clinical review of user engagement with mental health smartphone apps: Evidence, theory and improvements. Evid Based Ment Health. 2018;21(3):116–119. doi:10.1136/ebmental-2018-300091.
 - Firth J, Torous J, Nicholas J, Carney R, Rosenbaum S, Sarris J. The efficacy of smartphone-based mental health interventions for depressive symptoms: a meta-analysis of randomized controlled trials. World Psychiatry. 2017;16(3):287–298. doi:10.1002/wps.20472.
-- OpenAI. ChatGPT (March 2026 version) [large language model]. Available at: https://chat.openai.com/. Accessed March 2026.
+- Löwe B, Unützer J, Callahan CM, Perkins AJ, Kroenke K. Monitoring depressive symptoms over time: interpretation of changes in patient health questionnaire scores. Med Care. 2004;42(12):1194-1201.
