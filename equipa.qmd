@@ -9,3 +9,7 @@ title: "Equipa"
 - Duarte Mendes Oliveira - 202505689
 - Joana Pereira Antunes - 202504492
 
+## Repositório
+
+[🔗 Código fonte no GitHub](https://github.com/afonsoriosantos-lab/MindMove)
+

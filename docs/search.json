@@ -4,14 +4,7 @@
     "href": "resultados.html",
     "title": "Resultados",
     "section": "",
-    "text": "Resultados do Ensaio MindMove"
-  },
-  {
-    "objectID": "resultados.html#resultados",
-    "href": "resultados.html#resultados",
-    "title": "Resultados",
-    "section": "",
-    "text": "Resultados do Ensaio MindMove"
+    "text": "Na tabela abaixo, apresentam-se as características basais dos participantes do estudo, comparando o grupo de controlo e o grupo de intervenção.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVariável\nOverall\nN = 301\ncontrolo\nN = 151\nintervencao\nN = 151\np-value2\n\n\n\n\nIdade (anos)\n22.90 (20.50, 25.70)\n23.10 (20.50, 26.00)\n22.80 (20.50, 25.70)\n0.8\n\n\nSexo\n\n\n\n\n\n\n&gt;0.9\n\n\n    F\n22 (73%)\n11 (73%)\n11 (73%)\n\n\n\n\n    M\n8 (27%)\n4 (27%)\n4 (27%)\n\n\n\n\nDepressão (PHQ-9) Basal\n\n\n\n\n\n\n0.059\n\n\n    7\n1 (3.3%)\n0 (0%)\n1 (6.7%)\n\n\n\n\n    8\n5 (17%)\n1 (6.7%)\n4 (27%)\n\n\n\n\n    9\n5 (17%)\n4 (27%)\n1 (6.7%)\n\n\n\n\n    10\n7 (23%)\n3 (20%)\n4 (27%)\n\n\n\n\n    11\n7 (23%)\n6 (40%)\n1 (6.7%)\n\n\n\n\n    12\n2 (6.7%)\n1 (6.7%)\n1 (6.7%)\n\n\n\n\n    13\n3 (10%)\n0 (0%)\n3 (20%)\n\n\n\n\nAnsiedade (GAD-7) Basal\n\n\n\n\n\n\n0.5\n\n\n    5\n2 (6.7%)\n1 (6.7%)\n1 (6.7%)\n\n\n\n\n    6\n4 (13%)\n2 (13%)\n2 (13%)\n\n\n\n\n    7\n6 (20%)\n1 (6.7%)\n5 (33%)\n\n\n\n\n    8\n9 (30%)\n5 (33%)\n4 (27%)\n\n\n\n\n    9\n4 (13%)\n2 (13%)\n2 (13%)\n\n\n\n\n    10\n2 (6.7%)\n2 (13%)\n0 (0%)\n\n\n\n\n    11\n1 (3.3%)\n1 (6.7%)\n0 (0%)\n\n\n\n\n    12\n1 (3.3%)\n0 (0%)\n1 (6.7%)\n\n\n\n\n    13\n1 (3.3%)\n1 (6.7%)\n0 (0%)\n\n\n\n\n\n1 Median (Q1, Q3); n (%)\n\n\n2 Wilcoxon rank sum test; Fisher’s exact test\n\n\n\n\n\n\n\n\nO gráfico seguinte ilustra a distribuição dos scores de depressão às 8 semanas. É possível observar a diferença visual entre os scores do grupo que recebeu a intervenção e o grupo de controlo.\n\n\n\n\n\nDistribuição do score PHQ-9 às 8 semanas por grupo."
   },
   {
     "objectID": "index.html",
@@ -26,6 +19,27 @@
     "title": "MindMove",
     "section": "",
     "text": "O MindMove é um projeto de investigação desenvolvido no âmbito da Unidade Curricular de Bioestatística e Análise de Dados da Faculdade de Medicina da Universidade do Porto.\n\n\n\n\n\n\nNoteO nosso compromisso\n\n\n\nO nosso objetivo é avaliar como a tecnologia e a atividade física podem ser aliadas no combate à sintomatologia depressiva em estudantes universitários.\n\n\n\n\nProblema: A depressão é uma das principais causas de incapacidade entre jovens adultos. A população universitária, exposta a elevados stressores académicos, apresenta uma vulnerabilidade particular que justifica intervenções precoces e escaláveis.\nApp MindMove: A nossa aplicação baseia-se em princípios de terapia cognitivo-comportamental digital, autorregulação emocional e monitorização de atividade física para promover o bem-estar mental.\n\n\n\n\nGrupo-Alvo: Estudantes universitários (18-30 anos) com sintomas depressivos ligeiros a moderados (PHQ-9 entre 5 e 14).\nIntervenção: Utilização da app MindMove durante 8 semanas, incluindo módulos de dCBT, registo de humor e técnicas de mindfulness.\nObjetivo Principal: Redução estatisticamente significativa do score de sintomatologia depressiva (PHQ-9) às 8 semanas."
+  },
+  {
+    "objectID": "equipa.html",
+    "href": "equipa.html",
+    "title": "Equipa",
+    "section": "",
+    "text": "Afonso do Rio Espinheira Santos - 202504164\nCarlota Carmo Ferreira - 202508342\nDuarte Mendes Oliveira - 202505689\nJoana Pereira Antunes - 202504492"
+  },
+  {
+    "objectID": "equipa.html#membros-da-equipa-grupo-8---turma-c",
+    "href": "equipa.html#membros-da-equipa-grupo-8---turma-c",
+    "title": "Equipa",
+    "section": "",
+    "text": "Afonso do Rio Espinheira Santos - 202504164\nCarlota Carmo Ferreira - 202508342\nDuarte Mendes Oliveira - 202505689\nJoana Pereira Antunes - 202504492"
+  },
+  {
+    "objectID": "equipa.html#repositório",
+    "href": "equipa.html#repositório",
+    "title": "Equipa",
+    "section": "Repositório",
+    "text": "Repositório\n🔗 Código fonte no GitHub"
   },
   {
     "objectID": "protocolo.html",
@@ -124,20 +138,6 @@
     "title": "Protocolo",
     "section": "Dúvidas",
     "text": "Dúvidas\n\nClarificar critérios operacionais para classificação de sintomas depressivos ligeiros a moderados (PHQ-9 5–14)\nDefinir procedimentos de apoio e encaminhamento para participantes com agravamento dos sintomas"
-  },
-  {
-    "objectID": "equipa.html",
-    "href": "equipa.html",
-    "title": "Equipa",
-    "section": "",
-    "text": "Afonso do Rio Espinheira Santos - 202504164\nCarlota Carmo Ferreira - 202508342\nDuarte Mendes Oliveira - 202505689\nJoana Pereira Antunes - 202504492"
-  },
-  {
-    "objectID": "equipa.html#membros-da-equipa-grupo-8---turma-c",
-    "href": "equipa.html#membros-da-equipa-grupo-8---turma-c",
-    "title": "Equipa",
-    "section": "",
-    "text": "Afonso do Rio Espinheira Santos - 202504164\nCarlota Carmo Ferreira - 202508342\nDuarte Mendes Oliveira - 202505689\nJoana Pereira Antunes - 202504492"
   },
   {
     "objectID": "materiais.html",
