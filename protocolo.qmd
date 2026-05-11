@@ -6,7 +6,7 @@ title: "Protocolo"
 
 ## Informação Administrativa
 
-### Título do Estudo
+### Título do Estudo 
 
 Eficácia da aplicação móvel MindMove na redução de sintomas depressivos em estudantes universitários entre os 18 e os 30 anos com sintomatologia depressiva ligeira a moderada (PHQ-9 entre 5 e 14), sem diagnóstico de depressão major e sem terapêutica antidepressiva atual, comparativamente a lista de espera com material educativo estático, avaliada pela variação do score do Patient Health Questionnaire-9 às 8 semanas: protocolo de um ensaio clínico randomizado controlado.
 
