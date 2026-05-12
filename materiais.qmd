@@ -5,11 +5,11 @@ title: "Materiais"
 
 ### REDCap (PDF's)
 * [📄 Identificação](identificacao.pdf)
-* [📄 Baseline](baseline.pdf)
-* [📄 Screening](screening.pdf)
-* [📄 Follow-up 4 semanas](followup4w.pdf)
-* [📄 Follow-up 8 semanas](followup8w.pdf)
-* [📄 Conclusão](conclusao.pdf)
+* [📄 Baseline](baselinenovo.pdf)
+* [📄 Screening](screeningnovo.pdf)
+* [📄 Follow-up 4 semanas](followup4wnovo.pdf)
+* [📄 Follow-up 8 semanas](followup8wnovo.pdf)
+* [📄 Conclusão](conclusaonovo.pdf)
 
 ### Dados e Tabelas (Excel)
 * [📊 Dicionário ](DicionarioFP.xlsx)
