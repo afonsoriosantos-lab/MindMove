@@ -4,10 +4,10 @@ title: "Equipa"
 
 ## Membros da equipa: Grupo 8 - Turma C
 
-- Afonso do Rio Espinheira Santos - 202504164
-- Carlota Carmo Ferreira - 202508342
-- Duarte Mendes Oliveira - 202505689
-- Joana Pereira Antunes - 202504492
+- Afonso do Rio Espinheira Santos - up202504164@up.pt
+- Carlota Carmo Ferreira - up202508342@up.pt
+- Duarte Mendes Oliveira - up202505689@up.pt
+- Joana Pereira Antunes - up202504492@up.pt
 
 ## Repositório
 
