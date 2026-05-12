@@ -1,3 +1,95 @@
 ---
 title: Declaração de IA
 ---
+
+## Introdução
+
+No âmbito do desenvolvimento do trabalho da Unidade Curricular de Ferramentas de Produtividade sobre o projeto MindMove, o grupo utilizou ferramentas de inteligência artificial como apoio ao longo das três entregas de avaliação contínua. A presente declaração visa documentar o modo, o âmbito e as limitações dessa utilização.
+
+## Ferramentas Utilizadas
+
+Ao longo do projeto, a equipa recorreu às seguintes ferramentas de inteligência artificial generativa:
+
+- ChatGPT (OpenAI);
+- Claude (Anthropic);
+- Gemini (Google).
+
+## Utilização por Entrega
+
+### Entrega 1: Protocolo SPIRIT
+
+A primeira entrega consistiu na elaboração do protocolo SPIRIT do ensaio clínico, submetido nos formatos Word, Markdown e LaTeX. As ferramentas de IA foram utilizadas nos seguintes contextos:
+
+- Redação e revisão de texto: apoio na estruturação e melhoria da clareza do protocolo clínico, nomeadamente nas secções de introdução, métodos e justificação científica;
+
+- Formatação em Markdown: esclarecimento de sintaxe e boas práticas de formatação para garantir compatibilidade e legibilidade;
+
+::: {.callout-note}
+## Exemplo de prompt usado:
+Vou te mandar o protocolo em markdown e vais me dizer se os erros apontados pelo professor que te mandei antes estão corrigidos ou se é necessário ainda alterar alguma coisa à correção que fiz
+:::
+
+- Formatação em LaTeX: apoio na estruturação do documento, gestão de packages, formatação de tabelas e resolução de erros de compilação.
+
+::: {.callout-note}
+## Exemplo de prompt usado:
+Tenho outra referencia para por no .bib: Löwe B, Unützer J, Callahan CM, Perkins AJ, Kroenke K. Monitoring depressive symptoms over time: interpretation of changes in patient health questionnaire scores. Med Care. 2004;42(12):1194-1201. ajuda-me a fazer a referência para colocar no ficheiro
+:::
+
+### Entrega 2: Dicionário CRF e eCRF no REDCap
+
+A segunda entrega compreendeu a criação de um dicionário para o CRF em folha de cálculo e o desenvolvimento de um eCRF para o estudo clínico em REDCap. A IA foi utilizada para:
+
+- Dicionário CRF: apoio na definição de variáveis, tipos de dados, validações e codificação, assegurando coerência com os objetivos do estudo;
+
+::: {.callout-note}
+## Exemplo de prompt usado:
+(após envio de foto do dicionário) Achas que o dicionário que te mandei agora tem algum erro significativo que possa comprometer o eCRF do redcap ou tenho de mudar algo??
+:::
+
+- Criação do eCRF no REDCap: orientação passo a passo sobre a configuração de instrumentos, lógica de ramificação (branching logic), validações de campo e exportação de dados.
+
+::: {.callout-note}
+## Exemplo de prompt usado:
+Já meti o dicionário de dados no RedCap, que passos devo seguir para conseguir gerar corretamente os PDFs necessários?
+:::
+
+### Entrega 3: Investigator's Meeting e Site em Quarto
+
+A terceira entrega incluiu a produção de material para o Investigator's Meeting (apresentação e protótipo) e a criação do site do projeto em Quarto. A IA apoiou nas seguintes tarefas:
+
+- Protótipo no Figma: geração de ideias, definição de fluxos de navegação e sugestões de estrutura de ecrãs para a aplicação MindMove;
+
+::: {.callout-note}
+## Exemplo de prompt usado:
+Que ecrãs deve ter uma app de saúde mental para estudantes? temos módulos de CBT, registo de humor e mindfulness
+:::
+
+- Apresentação: apoio na organização do conteúdo, linguagem adequada para audiência clínica e revisão de texto dos slides;
+
+- Site em Quarto: orientação sobre a estrutura de ficheiros, sintaxe YAML, publicação em GitHub Pages e resolução de erros de renderização;
+
+::: {.callout-note}
+## Exemplo de prompt usado:
+Tenho um problema no site, quando abro todas as opções do menu funciona bem, mas quando abro o protocolo o site ficou todo desformatado, o que posso fazer?
+:::
+
+- Gestão de versões no RStudio: orientação sobre o uso de Git e commits dentro do ambiente RStudio, incluindo boas práticas de controlo de versões.
+
+::: {.callout-note}
+## Exemplo de prompt usado:
+Como faço commit e push no rstudio? não estou a conseguir sincronizar com o github
+:::
+
+## Limitações e Considerações Éticas
+
+- As ferramentas de IA podem conter imprecisões ou desatualização de informação técnica, ou seja, a informação relevante foi verificada junto de fontes primárias.
+- Não foram introduzidos dados pessoais, dados clínicos sensíveis ou informação confidencial em qualquer ferramenta.
+- A utilização de IA não substituiu o raciocínio crítico, a revisão bibliográfica ou a tomada de decisão científica por parte do grupo.
+
+## Conclusão
+
+Todo o conteúdo produzido com apoio de ferramentas de IA foi revisto, validado e editado pelo grupo antes da entrega final. A IA funcionou exclusivamente como ferramenta de apoio e nenhum conteúdo foi submetido diretamente sem revisão. O recurso a estas ferramentas teve como objetivo aumentar a eficiência e qualidade do trabalho, sem comprometer a autoria intelectual nem a originalidade do projeto.
+
+
+
