@@ -19,7 +19,16 @@ title: "Materiais"
 Aqui estão os ecrãs principais do nosso protótipo:
 
 ![Login](login.png)   
+![Criar Conta](criarconta.png)
+![Bem-vindo](bemvindo.png)
+![O Que Te Trouxe](oquetrouxe.png)
 ![Menu Inicial](menu_inicial.png)
-![Registo de Humor](humor.png)
+![Registo de Humor](humor_app.png)
 ![Registo de Atividade](atividade.png)
+![Exercícios de Terapia](exerciciosterapia.png)
+![Módulos](modulos.png)
+![Updates/Progresso](progresso.png)
+![Aba Lateral](abalateral.png)
+![Convidar Amigos](amigos.png)
+![Números de Apoio](numeros.png)
 ![A Minha Conta](conta.png)
