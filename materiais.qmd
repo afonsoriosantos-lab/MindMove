@@ -16,6 +16,8 @@ title: "Materiais"
 
 ## Protótipo MindMove
 
+Link para o protótipo no Figma: [🔗 Protótipo MindMove](https://www.figma.com/proto/sKP43gk3E8MP4f8iGNVOdJ/Sem-t%C3%ADtulo?node-id=1-3&t=6ABgreLeLtXEU4mu-1)
+
 Aqui estão os ecrãs principais do nosso protótipo:
 
 ![Login](login.png)   
